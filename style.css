@@ -168,3 +168,27 @@
       color: white;
 }
 /* featured end */
+/* footer start */
+footer{
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    background: black;
+    align-items: center;
+    
+}
+footer h2{
+     font-size: 24px;
+     font-weight: 700;
+     color: white;
+}
+footer h5{
+     color: var(--Text-Gray-300, #D9DBE1);
+     font-size: 14px;
+     font-weight: 700;
+}
+footer p{
+     color: var(--Text-Gray-300, #D9DBE1);
+     font-size: 14px;
+     font-weight: 700;
+}
+/* footer end */
