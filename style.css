@@ -135,3 +135,36 @@
     text-align: end;
 }
 /* popular end */
+/* featured start */
+.featured{
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    margin-bottom: 120px;
+}
+.f-img{
+
+}
+.f-content{ 
+      font-family: "Poppins", sans-serif;
+}
+.f-content h2{
+      font-size: 38px;
+      font-weight: 700;
+      line-height: 60px;
+      color: #0A0826;
+}
+.f-content p{
+       color: #6C6C6C;
+       font-size: 16px;
+       font-weight: 700;
+       line-height: 28px;
+       margin-bottom: 20px;
+}
+.f-content a{
+      text-decoration: none;
+      padding: 10px 24px;
+      background: #E02C6D;
+      color: white;
+}
+/* featured end */
