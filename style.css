@@ -5,6 +5,7 @@
     font-family: "Poppins", sans-serif;
     margin-top: 100px;
      align-items: center;
+     margin-bottom: 120px;
     
 }
 .b-content{
@@ -33,3 +34,14 @@
    
 }
 /* banner end */
+/* brand start */
+.brand{
+    display: flex;
+    justify-content: center;
+    gap: 70px;
+    margin-bottom: 120px;
+}
+.brand img{
+    width: 84px;
+}
+/* brand end */
